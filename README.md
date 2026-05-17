@@ -10,3 +10,6 @@ Meu repositório acadêmico e profissional.
 
 ## Projetos
 - Portfólio
+/documentacao
+/projetos-academicos
+/projetos-pessoais
