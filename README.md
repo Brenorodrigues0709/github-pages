@@ -10,7 +10,6 @@ Meu repositório acadêmico e profissional.
 
 ## Projetos
 - Portfólio
-README.md
 /documentacao
 /projetos-academicos
 /projetos-pessoais
