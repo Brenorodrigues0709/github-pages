@@ -19,3 +19,10 @@ Sou estudante da área de Tecnologia da Informação e utilizo este repositório
 [LINKEDIN](www.linkedin.com/in/breno-rodrigues-montezuma-87190240b)
 [GITHUBPAGE](https://brenorodrigues0709.github.io/github-pages/)
 [GOOGLE SITES](https://sites.google.com/view/portfolio-breno-rodrigues/in%C3%ADcio)
+
+
+PortfolioHUB/
+│
+├── projetos-academicos
+├── projetos-pessoais
+└── README.md
