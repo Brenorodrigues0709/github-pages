@@ -1,2 +1,12 @@
-# github-pages
-criando o trabalho intermediário de bootcamp 
+# PortfolioHUB
+
+Meu repositório acadêmico e profissional.
+
+## Tecnologias
+- HTML
+- CSS
+- Git
+- GitHub
+
+## Projetos
+- Portfólio
